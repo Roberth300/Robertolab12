@@ -1,0 +1,39 @@
+
+.main{
+display:block;
+font-family: Georgia, 'Times New Roman', Times, serif;
+width: 420px;
+height:580px;
+margin: auto;
+    h1{
+        text-align: center;
+        font-size: 40px;
+        color: brown;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     } 
+     h2{ 
+        text-align: center;
+        font-size: 28px;
+        color: brown;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        img {
+        display: block;
+        margin: auto;
+        width: 400 px;
+        height: 400 px;
+        }
+        p{
+            width: 100%;
+        }
+        p1{
+            width: 100%;
+            font-size: 13px;
+            
+         }
+}
+ 
+   
+    
+        
+
